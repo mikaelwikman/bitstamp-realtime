@@ -28,6 +28,7 @@ GEM
     turn (0.9.6)
       ansi
     tzinfo (0.3.38)
+    vcr (2.7.0)
 
 PLATFORMS
   ruby
@@ -36,3 +37,4 @@ DEPENDENCIES
   bitstamp-realtime!
   shoulda
   turn
+  vcr
